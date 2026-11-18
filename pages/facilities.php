@@ -1,0 +1,1 @@
+<?php $title='Health Facilities';$dataset='facilities';$columns=['id', 'name', 'type', 'district_id', 'sector_id', 'status'];include __DIR__.'/_list.php'; ?>

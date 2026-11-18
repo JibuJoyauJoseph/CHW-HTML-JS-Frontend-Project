@@ -1,0 +1,1 @@
+<?php $title='Audit Log';$dataset='audit-logs';$columns=['id', 'timestamp', 'user_id', 'action', 'resource', 'resource_id', 'description'];include __DIR__.'/_list.php'; ?>

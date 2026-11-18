@@ -1,0 +1,1 @@
+<?php $title='Community Health Workers';$dataset='chws';$columns=['id', 'first_name', 'last_name', 'district_id', 'sector_id', 'facility_id', 'status', 'training_status'];include __DIR__.'/_list.php'; ?>

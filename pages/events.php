@@ -1,0 +1,1 @@
+<?php $title='Community Health Events';$dataset='community-events';$columns=['id', 'date', 'event_type', 'location', 'participants', 'organizing_chw_id', 'follow_up_required'];include __DIR__.'/_list.php'; ?>

@@ -1,0 +1,1 @@
+<?php $title='Users & Roles';$dataset='users';$columns=['id', 'name', 'email', 'role', 'district_id', 'sector_id', 'status'];include __DIR__.'/_list.php'; ?>

@@ -1,0 +1,1 @@
+<?php $title='Referral Management';$dataset='referrals';$columns=['id', 'date', 'chw_id', 'household_id', 'reason_category', 'facility_id', 'urgency', 'status'];include __DIR__.'/_list.php'; ?>

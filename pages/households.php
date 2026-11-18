@@ -1,0 +1,1 @@
+<?php $title='Households';$dataset='households';$columns=['id', 'district_id', 'sector_id', 'household_size', 'vulnerability', 'chw_id', 'last_visit', 'status'];include __DIR__.'/_list.php'; ?>

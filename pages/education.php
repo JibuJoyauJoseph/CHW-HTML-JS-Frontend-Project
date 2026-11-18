@@ -1,0 +1,1 @@
+<?php $title='Health Education Sessions';$dataset='education-sessions';$columns=['id', 'date', 'topic', 'location', 'participants', 'female_participants', 'male_participants', 'chw_id'];include __DIR__.'/_list.php'; ?>

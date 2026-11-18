@@ -1,0 +1,1 @@
+<?php $title='Community Visits';$dataset='visits';$columns=['id', 'date', 'chw_id', 'household_id', 'visit_type', 'referral_required', 'follow_up_required', 'status'];include __DIR__.'/_list.php'; ?>
